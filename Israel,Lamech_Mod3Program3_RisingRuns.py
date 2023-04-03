@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python          #
 # Module 3 - Project 3 - Rising Runs        #
 # Author: Lamech Israel                     #
-# Date:   01/29/2023                        #
+#                                           #
 #############################################
 
 
